@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Biblioteca/Biblioteca.iml" filepath="$PROJECT_DIR$/Biblioteca/Biblioteca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejercicio-1-POO/Ejercicio-1-POO.iml" filepath="$PROJECT_DIR$/Ejercicio-1-POO/Ejercicio-1-POO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejercicio-2-POO/Ejercicio-2-POO.iml" filepath="$PROJECT_DIR$/Ejercicio-2-POO/Ejercicio-2-POO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejercicio-3-POO-ENDS/Ejercicio-3-POO-ENDS.iml" filepath="$PROJECT_DIR$/Ejercicio-3-POO-ENDS/Ejercicio-3-POO-ENDS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Entrono1G.iml" filepath="$PROJECT_DIR$/.idea/Entrono1G.iml" />
+    </modules>
+  </component>
+</project>

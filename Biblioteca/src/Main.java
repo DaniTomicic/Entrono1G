@@ -10,7 +10,6 @@ public class Main {
         liburu2.setTitulo("HTML");
         liburu2.setISBN(2);
 
-
         System.out.println(liburu + "\n" + liburu2);
         System.out.println(liburu.getAutor());
 
@@ -20,7 +19,6 @@ public class Main {
         sucio2.setCodigoSocio(11);
 
         System.out.println(sucio2.getCodigoSocio());
-
 
         Prestamo prestamo1 = new Prestamo(liburu2,5,sucio2, LocalDate.now());
 
